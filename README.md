@@ -1,5 +1,5 @@
 <h1 align="center">  
-  👋😊 Hi Dev, I'm Dương Minh Nhật (Ben)  
+  👋😊 Hi Dev, I'm Duong Minh Nhat (Ben)  
 </h1>  
 
 <h3 align="center">
