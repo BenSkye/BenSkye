@@ -63,7 +63,7 @@
 
 ## 📫 Contact  
 - 📧 **Email:** _nhat.duongminh24@gmail.com_  || _nhatdm9a7@gmail.com_
-- 💼 **LinkedIn:** _[LinkedIn](www.linkedin.com/in/minh-nhật-dương-6088a4319)_
+- 💼 **LinkedIn:** _[LinkedIn](https://www.linkedin.com/in/minh-nhật-dương-6088a4319/)_
 
  --- 
 ## 📊 GitHub Stats  
