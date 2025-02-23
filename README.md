@@ -19,7 +19,7 @@
 
 ## 🚀 About Me  
 - 🎓 **Final-year Software Engineering student at FPT University**  
-- 💼 **Interned at FPT, currently working at AgeCode**  
+- 💼 **Interned at FPT Software, currently working at AgeCode**  
 - 🔭 Passionate about **scalable, maintainable, and high-performance applications**  
 - 💡 Experienced in **Frontend, Mobile Development & Fullstack**  
 - ☕ Strong background in **React & Nextjs**  
