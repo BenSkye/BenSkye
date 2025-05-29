@@ -19,7 +19,8 @@
 
 ## 🚀 About Me  
 - 🎓 **Final-year Software Engineering student at FPT University**  
-- 💼 **Interned at FPT Software, currently working at AgeCode**  
+- 💼 **Former intern at FPT Software**  
+- 💼 **Previously worked at AgeCode, currently working at ONECAD**  
 - 🔭 Passionate about **scalable, maintainable, and high-performance applications**  
 - 💡 Experienced in **Frontend, Mobile Development & Fullstack**  
 - ☕ Strong background in **React & Nextjs**  
