@@ -59,7 +59,7 @@
 ---
 
 ## 🌎 Portfolio & Blog  
-- 🌐 **Portfolio:** _Coming soon..._  
+- 🌐 **Portfolio:** _[Portfolio](https://www.duongminhnhat.id.vn/)_
 - 📝 **Blog:** _Coming soon..._  
 
 ## 📫 Contact  
